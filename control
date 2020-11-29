@@ -1,0 +1,9 @@
+Package: com.he55.skisafaripatch
+Name: SkiSafariPatch
+Version: 1.0
+Architecture: iphoneos-arm
+Description: SkiSafariPatch
+Maintainer: he55
+Author: he55
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
